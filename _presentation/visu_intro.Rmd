@@ -303,10 +303,6 @@ penguins %>%
 template: manip
 class: inverse
 
-```{r otter, eval = TRUE, echo = FALSE}
-# All defaults
-knitr::include_graphics("../resources/img/otter.jpg")
-```
 
 .center[.highlight[Your turn!]]
 
@@ -437,11 +433,6 @@ gg +
 ---
 template: scatter_slide_col
 class: inverse
-
-```{r seal, eval = TRUE, echo = FALSE}
-# All defaults
-knitr::include_graphics("../resources/img/seal.jpg")
-```
 
 .center[.highlight[Your turn!]]
 
@@ -663,10 +654,6 @@ gg +
 template: scatter_slide_col
 class: inverse
 
-```{r lion, eval = TRUE, echo = FALSE}
-# All defaults
-knitr::include_graphics("../resources/img/lion.jpg")
-```
 
 .center[.highlight[Your turn!]]
 
@@ -762,11 +749,6 @@ class: inverse
 
 
 
-```{r turtle, eval = TRUE, echo = FALSE, out.width='50%'}
-# All defaults
-knitr::include_graphics("../resources/img/turtle.jpeg")
-```
-
 .center[.highlight[Your turn!]]
 
 
@@ -845,10 +827,6 @@ count: false
 class: inverse 
 
 
-```{r wolf, eval = TRUE, echo = FALSE}
-# All defaults
-knitr::include_graphics("../resources/img/wolf.jpeg")
-```
 
 .center[.highlight[Your turn!]]
 
