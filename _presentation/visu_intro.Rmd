@@ -40,7 +40,7 @@ BibOptions(check.entries = FALSE,
            style = "markdown",
            hyperlink = FALSE,
            dashed = FALSE)
-myBib <- ReadBib("../resources/visu.bib", check = FALSE)
+myBib <- ReadBib("visu.bib", check = FALSE)
 theme_set(theme_grey())
 ```
 
